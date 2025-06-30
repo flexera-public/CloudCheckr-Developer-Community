@@ -380,7 +380,12 @@
 							"kinesis:DescribeStream",
 							"kinesis:GetShardIterator",
 							"kinesis:ListStreams",
-							"kinesis:ListTagsForStream"
+							"kinesis:ListTagsForStream",
+							"eks:Describe*",
+							"eks:List*",
+							"kafka:Describe*",
+							"kafka:List*",
+							"kafka:Get*"
 						],
 						"Resource":"*"
 					}]
@@ -451,6 +456,7 @@
 						"Action": [
 							"ce:GetReservationUtilization",
 							"ce:GetSavingsPlansPurchaseRecommendation",
+							"ce:GetReservationPurchaseRecommendation",
 							"cur:DescribeReportDefinitions",
 							"ec2:DescribeAccountAttributes",
 							"ec2:DescribeAvailabilityZones",
