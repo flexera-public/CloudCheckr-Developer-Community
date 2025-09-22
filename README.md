@@ -1,11 +1,5 @@
 ![CloudCheckr Success Center](media/CloudCheckrDeveloperCommunity.png)
 
-# !!! NOTICE!!!
-
-The URL for this repository is changing! The new URL will be: [https://github.com/flexera-public/CloudCheckr-Developer-Community](https://github.com/flexera-public/CloudCheckr-Developer-Community)
-
-This change will occur on September 15, 2025.
-
 # Welcome to the CloudCheckr Development Community!
 
 Hi! Welcome to the CloudCheckr Development community! This is a repository of scripts, tools or otherwise that can help you quickly integrate CloudCheckr using the native **API**.
